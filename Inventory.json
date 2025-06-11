@@ -1,0 +1,13 @@
+{
+    "name": "grapes",
+    "quantity": 6,
+    "price": 9.0,
+    "watermelon": {
+        "quantity": 1,
+        "price": 10.0
+    },
+    "orange": {
+        "quantity": 2,
+        "price": 3.0
+    }
+}

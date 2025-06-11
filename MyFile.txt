@@ -1,0 +1,2 @@
+This text is written into the file.
+The W mode overides the file if it exists.
